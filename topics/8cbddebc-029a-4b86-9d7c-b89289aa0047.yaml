@@ -1,2 +1,24 @@
----|
-  What is this book about?
+id: 381f0baf8957e2bf54f1a506b508d16177862215
+type: markdown
+text: >-
+  Probability is fundamental to statistics, data science, machine learning,
+  artificial intelligence and several other buzzwords that people are fascinated
+  about. Within the borader field of probability, distributions is a key
+  mathematical construct with wide range of applicability. The whole world of
+  inferential statistics is based on the concept of probability distributions.
+  Beyond the inferential statistics, the probability distributions keep showing
+  up in a surpring number of ways. When people say that a solid foudnation in
+  `probability` is required to grok machine learning, the reference is to
+  `probability distributions` and not the probability one studied in high
+  school.
+html: >
+  <p>Probability is fundamental to statistics, data science, machine learning,
+  artificial intelligence and several other buzzwords that people are fascinated
+  about. Within the borader field of probability, distributions is a key
+  mathematical construct with wide range of applicability. The whole world of
+  inferential statistics is based on the concept of probability distributions.
+  Beyond the inferential statistics, the probability distributions keep showing
+  up in a surpring number of ways. When people say that a solid foudnation in
+  <code>probability</code> is required to grok machine learning, the reference
+  is to <code>probability distributions</code> and not the probability one
+  studied in high school.</p>
