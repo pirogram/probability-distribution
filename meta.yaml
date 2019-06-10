@@ -11,10 +11,3 @@ toc:
       - code: author
         title: Author
         id: 51fb4d3e-7327-4593-b2ab-cb33384ed4b5
-  - code: perspectives-on-probability
-    title: Perspectives on Probability
-    id: de1f3d26-a624-4d83-9196-a4bd316c809b
-    topics:
-      - code: so-what-is-probability
-        title: 'So, What is Probability?'
-        id: 131ed7f0-ef19-4481-bc74-0c7ff851d1b9
