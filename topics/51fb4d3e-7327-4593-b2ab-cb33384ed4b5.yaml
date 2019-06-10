@@ -1,12 +1,10 @@
 id: c2c2e34d770cdd711b0c348d9837b2c4370a1b5f
 type: markdown
 text: >-
-  I am Manas Garg. My twitter handle is
-  [@manasgarg](https://www.twitter.com/manasgarg). I have been working in the
-  area of machine learning for some time now. I don't specialize in data
-  science. My background is software engineering and I picked up the necessary
-  knowledge and skills as this discipline evolved. I currently work as Director,
-  Machine Learning at Adobe.
+  I am Manas Garg. I have been working in the area of machine learning for some
+  time now. I don't specialize in data science. My background is software
+  engineering and I picked up the necessary knowledge and skills as this
+  discipline evolved. I currently work as Director, Machine Learning at Adobe.
 
 
   I see that a lot of people approach Machine Learning without building the
@@ -18,13 +16,16 @@ text: >-
 
   This book is my humble attempt to share some of the knowledge I have acquired
   and the point of view I built as I got comfortable with this area.
+
+
+  Best way to connect with me is via twitter:
+  [@manasgarg](https://www.twitter.com/manasgarg). 
 html: >
-  <p>I am Manas Garg. My twitter handle is <a
-  href="https://www.twitter.com/manasgarg" target="_blank">@manasgarg</a>. I
-  have been working in the area of machine learning for some time now. I don't
-  specialize in data science. My background is software engineering and I picked
-  up the necessary knowledge and skills as this discipline evolved. I currently
-  work as Director, Machine Learning at Adobe.</p>
+  <p>I am Manas Garg. I have been working in the area of machine learning for
+  some time now. I don't specialize in data science. My background is software
+  engineering and I picked up the necessary knowledge and skills as this
+  discipline evolved. I currently work as Director, Machine Learning at
+  Adobe.</p>
 
   <p>I see that a lot of people approach Machine Learning without building the
   necessary foundation in mathematics. Part of the reason is the nature of
@@ -35,3 +36,6 @@ html: >
   <p>This book is my humble attempt to share some of the knowledge I have
   acquired and the point of view I built as I got comfortable with this
   area.</p>
+
+  <p>Best way to connect with me is via twitter: <a
+  href="https://www.twitter.com/manasgarg" target="_blank">@manasgarg</a>.</p>
