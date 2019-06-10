@@ -2,9 +2,9 @@ id: c2c2e34d770cdd711b0c348d9837b2c4370a1b5f
 type: markdown
 text: >-
   I am Manas Garg. I have been working in the area of machine learning for some
-  time now. I don't specialize in data science. My background is software
-  engineering and I picked up the necessary knowledge and skills as this
-  discipline evolved. I currently work as Director, Machine Learning at Adobe.
+  time now. My background is software engineering and I picked up the necessary
+  knowledge and skills as this discipline evolved. I currently work as Director,
+  Machine Learning at Adobe.
 
 
   I see that a lot of people approach Machine Learning without building the
@@ -22,10 +22,9 @@ text: >-
   [@manasgarg](https://www.twitter.com/manasgarg). 
 html: >
   <p>I am Manas Garg. I have been working in the area of machine learning for
-  some time now. I don't specialize in data science. My background is software
-  engineering and I picked up the necessary knowledge and skills as this
-  discipline evolved. I currently work as Director, Machine Learning at
-  Adobe.</p>
+  some time now. My background is software engineering and I picked up the
+  necessary knowledge and skills as this discipline evolved. I currently work as
+  Director, Machine Learning at Adobe.</p>
 
   <p>I see that a lot of people approach Machine Learning without building the
   necessary foundation in mathematics. Part of the reason is the nature of
