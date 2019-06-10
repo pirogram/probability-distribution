@@ -14,4 +14,7 @@ toc:
   - code: game-of-chance
     title: Game of Chance
     id: de1f3d26-a624-4d83-9196-a4bd316c809b
-    topics: []
+    topics:
+      - code: a-simple-interpretetion
+        title: A Simple Interpretetion
+        id: 131ed7f0-ef19-4481-bc74-0c7ff851d1b9
